@@ -1,4 +1,4 @@
-package transposematriks;
+package tugas2.transposematriks;
 
 public class TransposeMatrix {
     public static void main(String[] args) {

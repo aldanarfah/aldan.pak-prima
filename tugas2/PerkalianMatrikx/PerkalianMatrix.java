@@ -1,4 +1,4 @@
-package perkalianmatriks;
+package tugas2.PerkalianMatrikx;
 
 public class PerkalianMatrix {
     public static void main(String[] args) {
